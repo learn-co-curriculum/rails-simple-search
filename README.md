@@ -36,4 +36,4 @@ Our app is super simple. We have a database of random words. The database will b
 
 Building a more sophisticated search functionality with Elastic Search.
 
-<a href='https://learn.co/lessons/rails-simple-search' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-simple-search' title='Implementing a Simple Search Feature in Rails'>Implementing a Simple Search Feature in Rails</a> on Learn.co and start learning to code for free.</p>
